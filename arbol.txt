@@ -1,0 +1,46 @@
+.
+├── arbol.txt
+├── Descargas
+├── Documentos
+│   ├── facultad-de-informatica
+│   │   ├── ciencias-de-datos
+│   │   │   └── algebra-lineal
+│   │   ├── licenciado-en-informatica
+│   │   │   ├── programacion
+│   │   │   └── redes
+│   │   └── telecomunicaciones
+│   │       ├── electronica
+│   │       │   └── programacion
+│   │       │       └── java
+│   │       └── nuevoArchivo.txt
+│   ├── Muchachos
+│   └── quevedo
+├── Escritorio
+├── Imágenes
+├── Música
+├── nuevo.txt
+├── numeros.txt
+├── numeros.txt.save
+├── oprativos
+├── ordenado2.txt
+├── Plantillas
+├── Público
+├── sistemas
+├── snap
+│   ├── firefox
+│   │   ├── 2987
+│   │   ├── common
+│   │   │   └── Firefox_wallpaper.png
+│   │   └── current -> 2987
+│   ├── snapd-desktop-integration
+│   │   ├── 83
+│   │   ├── common
+│   │   └── current -> 83
+│   └── snap-store
+│       ├── 959
+│       ├── common
+│       └── current -> 959
+├── Vídeos
+└── windows
+
+36 directories, 7 files
